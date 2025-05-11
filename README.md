@@ -15,6 +15,17 @@
 
 ![Inheritance Graph](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Images/Inheritence%20Graph.png)
 
+Core Scripts
+- [State Machine](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Assets/Scripts/State%20Machine/Core/StateMachine.cs) 
+- [State](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Assets/Scripts/State%20Machine/Core/State.cs)
+- [State Action](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Assets/Scripts/State%20Machine/Core/StateAction.cs)
+- [State Transition](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Assets/Scripts/State%20Machine/Core/StateTransition.cs)
+- [IPredicate](https://github.com/jasonxuDrop/Modular-Combat-FSM/blob/main/Assets/Scripts/Predicate/IPredicate.cs)
+
+
+
+## Learn More
+
 See the design rational, usage guide, and editor tools in the [documentation](https://kuma-alchemy.notion.site/Modular-Combat-FSM-1efbf26ea72b80a48567c88013d24021?pvs=74). 
 
 Note that some of the scripts requires assets like Odin Inspector and More Mountain Tools to function properly. 
